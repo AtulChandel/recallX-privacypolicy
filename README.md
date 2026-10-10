@@ -1,1 +1,1 @@
-# recallX-privacypolicy
+RecallX operates 100% locally on the user's device. No browsing history, form data, clipboard contents, OCR extractions, or personal profiles are ever collected, tracked, or transmitted to any external servers or third parties.
